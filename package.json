@@ -1,10 +1,9 @@
 {
-  "name": "Inktrix",
+  "name": "inktrix",
   "homepage": "https://GIRI-79.github.io/Inktrix/",
   "private": false,
   "version": "1.0.0",
   "description": "A modern digital drawing and sketching application",
-  "homepage": "https://yourusername.github.io/inktrix/",
   "type": "module",
   "scripts": {
     "dev": "vite",
