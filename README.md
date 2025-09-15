@@ -2,7 +2,7 @@
 
 A modern digital drawing and sketching application built with React, TypeScript, and Vite.
 
-🎨 **Live Demo**: [https://giri-79.github.io/inktrix/](https://giri-79.github.io/inktrix/)
+🎨 **Live Demo**: https://giri-79.github.io/Inktrix/
 
 ## Features
 
@@ -14,7 +14,7 @@ A modern digital drawing and sketching application built with React, TypeScript,
 
 ## Live Demo
 
-Visit the live application: [https://giri-79.github.io/inktrix/](https://giri-79.github.io/inktrix/)
+Visit the live application: https://giri-79.github.io/Inktrix/
 
 ## Development
 
